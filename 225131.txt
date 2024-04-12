@@ -1,0 +1,31 @@
+1.cd SI_2024_lab1_225131
+2.git init - Inicializacija na lokalen direktorium
+3.git remote add origin https://github.com/manojloskikristijan/SI_2024_lab1_225131.git - povrzuvanje na lokalniot repo so remote repo
+4.git add . - Dodavanje na README.md vo staged faza
+5.git commit -m"Initial commit" - Commit na napravenite promeni
+6.git push origin master - sinhroniziranje na local so remote repo
+7.git checkout -b bug1 - razgranuvanje na grankata bug1
+8.git add SILab1_1.java - dodavanje na fajlot vo staged faza
+9.git commit -m "Fix wrong condition in filterOddLengthStrings" - commit so napravenite promeni i poraka za samiot commit
+10.git checkout master - prefrlanje na grankata master
+11.git checkout -b bug2 - razgranuvanje na grankata bug2
+12.git add SILab1_2.java - dodavanje na fajlot vo staged faza
+13.git commit -m "Fix wrong condition in makeBigStringFrom" - commit so napravenite promeni i poraka za samiot commit
+14.git checkout bug1 - prefrlanje na grankata bug1
+15.git add SILab1Main.java - dodavanje na fajlot vo staged faza
+16.git commit -m "Call method filterOddLengthStrings in main class" - commit so napravenite promeni i poraka za samiot commit
+17.git checkout bug2 - prefrlanje na grankata bug2
+18.git add SILab1Main.java - dodavanje na fajlot vo staged fazs
+19.git commit -m "Call method makeBigStringFrom in main class" - commit so napravenite promeni i poraka za samiot commit
+20.git push --all - sinhroniziranje na site granki so grankite na remote repo-to
+21.git checkout master - prefrlanje na master grankata
+22.git merge bug1 - spojuvanje na grankata bug1 kon grankata master
+23.git push --all - sinhroniziranje na site granki so grankite na remote repo-to
+24.git checkout bug2 - prefrlanje na grankata bug2
+25.git rebase master - rebase na grankata bug2 so master, site commits od bug se zachuvuvaat vo temp, commits-ot od master se prefrlaat na grankata bug2 a posle niv se dodavaat comitts-ot od temp.
+(Vo ovoj sluchaj kje se pojavi konflikt koj treba se reshi. Po reshavanjeto na konfliktot prodolzhuvaat dolunavedenite chekori).
+26.git add SILab1Main.java - dodavanje na fajlot so resheniot konflikt vo staged faza
+27.git rebase --continue - rebase-ot uspeshno prodolzhuva i se izvrshuva
+28.git checkout master - prefrlanje na grankata master
+29.git merge bug2 - spojuvanje na grankata bug2 so master (Fast-forward)
+30.git push --all --force - sinhroniziranje na site granki od local repo-to so remote repo-to

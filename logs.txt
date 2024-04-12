@@ -1,0 +1,102 @@
+MASTER BRANCH:
+
+commit 6552281c47be2a9ba39e2090cdb1383242ca101a (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: 225131 <manojloskikristijan@gmail.com>
+Date:   Fri Apr 12 15:14:24 2024 +0200
+
+    Call method makeBigStringFrom Conflict solved
+
+commit 3c390a9b3f9122ed5ad6134e1f287b9b545270e4
+Author: 225131 <manojloskikristijan@gmail.com>
+Date:   Fri Apr 12 15:05:25 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 4b2579cefab2418ca98f5d69814a7e32a09b18d9 (origin/bug1, bug1)
+Author: 225131 <manojloskikristijan@gmail.com>
+Date:   Fri Apr 12 15:09:46 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 1e88856290959dfaaaf1948497f92e0b3749ec83
+Author: 225131 <manojloskikristijan@gmail.com>
+Date:   Fri Apr 12 15:01:36 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit eb0d0ed504ca646679456567d1b425a98decb26a
+Author: 225131 <manojloskikristijan@gmail.com>
+Date:   Fri Apr 12 14:52:00 2024 +0200
+
+commit 758c5a4017561a3251ff7def7797e1f0f9b5703b
+Author: 225131 <manojloskikristijan@gmail.com>
+Date:   Fri Apr 12 14:47:24 2024 +0200
+
+    Initial commit
+
+
+BUG1 BRANCH:
+
+commit 4b2579cefab2418ca98f5d69814a7e32a09b18d9 (HEAD -> bug1, origin/bug1)
+Author: 225131 <manojloskikristijan@gmail.com>
+Date:   Fri Apr 12 15:09:46 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 1e88856290959dfaaaf1948497f92e0b3749ec83
+Author: 225131 <manojloskikristijan@gmail.com>
+Date:   Fri Apr 12 15:01:36 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit eb0d0ed504ca646679456567d1b425a98decb26a
+Author: 225131 <manojloskikristijan@gmail.com>
+Date:   Fri Apr 12 14:52:00 2024 +0200
+
+    Add starter code
+
+commit 758c5a4017561a3251ff7def7797e1f0f9b5703b
+Author: 225131 <manojloskikristijan@gmail.com>
+Date:   Fri Apr 12 14:47:24 2024 +0200
+
+    Initial commit
+
+
+
+BUG2 BRANCH:
+
+commit 6552281c47be2a9ba39e2090cdb1383242ca101a (HEAD -> bug2, origin/master, origin/bug2, master)
+Author: 225131 <manojloskikristijan@gmail.com>
+Date:   Fri Apr 12 15:14:24 2024 +0200
+
+    Call method makeBigStringFrom Conflict solved
+
+commit 3c390a9b3f9122ed5ad6134e1f287b9b545270e4
+Author: 225131 <manojloskikristijan@gmail.com>
+Date:   Fri Apr 12 15:05:25 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 4b2579cefab2418ca98f5d69814a7e32a09b18d9 (origin/bug1, bug1)
+Author: 225131 <manojloskikristijan@gmail.com>
+Date:   Fri Apr 12 15:09:46 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 1e88856290959dfaaaf1948497f92e0b3749ec83
+Author: 225131 <manojloskikristijan@gmail.com>
+Date:   Fri Apr 12 15:01:36 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit eb0d0ed504ca646679456567d1b425a98decb26a
+Author: 225131 <manojloskikristijan@gmail.com>
+Date:   Fri Apr 12 14:52:00 2024 +0200
+
+    Add starter code
+
+commit 758c5a4017561a3251ff7def7797e1f0f9b5703b
+Author: 225131 <manojloskikristijan@gmail.com>
+Date:   Fri Apr 12 14:47:24 2024 +0200
+
+    Initial commit
